@@ -1,4 +1,4 @@
-<img align="right" alt="banner" width="400" src="github-header-image.png">
+<img align="center" alt="banner" width="1000" src="github-header-image.png">
 <h1 align="center">Hi 👋, I'm Nikhil Kapkoti</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
